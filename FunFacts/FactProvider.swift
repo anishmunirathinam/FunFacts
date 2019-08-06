@@ -1,3 +1,10 @@
+//
+//  FactProvider.swift
+//  FunFacts
+//  Created by IdeaBubbles on 01/08/17.
+//  Copyright © 2017 Anish. All rights reserved.
+//
+
 import Foundation
 
 struct FactProvider {
