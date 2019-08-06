@@ -1,12 +1,4 @@
-//
-//  FactProvider.swift
-//  FunFacts
-//
-//  Created by Screencast on 11/2/16.
-//  Copyright © 2016 Treehouse Island. All rights reserved.
-//
-
-import GameKit
+import Foundation
 
 struct FactProvider {
     let facts = [
