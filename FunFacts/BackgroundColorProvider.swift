@@ -1,9 +1,8 @@
 //
 //  BackgroundColorProvider.swift
 //  FunFacts
-//
-//  Created by Screencast on 11/3/16.
-//  Copyright © 2016 Treehouse Island. All rights reserved.
+//  Created by IdeaBubbles on 01/08/17.
+//  Copyright © 2017 Anish. All rights reserved.
 //
 
 import UIKit
